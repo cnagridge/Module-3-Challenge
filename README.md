@@ -41,3 +41,4 @@ THEN the password is either displayed in an alert or written to the page
 # Website
 https://cnagridge.github.io/Module-3-Challenge/
 
+![image](https://user-images.githubusercontent.com/118046231/207220929-f7644390-4315-4c5f-ba2e-e5aec4e7bcc9.png)
